@@ -14,7 +14,7 @@ Facts
 <div align="center"> 
   <img 
      src="https://images.unsplash.com/photo-1526297003708-f5a1c2c9c6e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80" 
-     style="max-width: 100%" height="300"
+     style="max-width: 100%" height="400"
   />
 </div>
 
