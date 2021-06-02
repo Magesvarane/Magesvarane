@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center"> 
-  👽 Alien Counter 👽<br>
+  👽 Aliens Counter 👽<br>
   <img src="https://profile-counter.glitch.me/Magesvarane/count.svg" />
 </div>
