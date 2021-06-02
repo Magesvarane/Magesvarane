@@ -1,5 +1,5 @@
 ### Hey there 👋, I'm Magesvarane
-
+> I consider myseld as a Software Developer, passionate about fast growing technologies. I'm focused on developing real-time web applications
 
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning React Native, Mobile Apps
