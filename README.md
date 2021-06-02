@@ -2,8 +2,7 @@
 > I consider myself to be a Software Developer, passionate about fast growing technologies. I'm focused on developing real-time web applications.
 > The approch is simple: to make something great, make it personal. Because isn't homemade always better than fast fare. Join me, let's build a better modern web!
 
-Facts--
-
+Facts
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning React Native, Mobile Apps
 - 👯 I’m looking to collaborate on Web Developements and Technologies
