@@ -6,7 +6,7 @@ Facts
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning React Native, Mobile Apps
 - 👯 I’m looking to collaborate on Web Developements and Technologies
-- 💬 Ask me about **JavaScript, ReactJS, NodeJS, Page Designs, Databases or TypeScript **
+- 💬 Ask me about **JavaScript, ReactJS, NodeJS, Page Designs, Databases or TypeScript**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/magesvarane-s-41081ab7) | [Mail](smagesvarane@gmail.com)
 - ⚡ Mantra used: Eat ➡️ Code ➡️ Sleep ➡️ Repeat 🔁
 
