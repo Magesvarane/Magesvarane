@@ -1,6 +1,4 @@
-<div align="center">
-  ### Hey there 👋, I'm Magesvarane
-</div>
+### Hey there 👋, I'm Magesvarane
 
 
 - 🔭 I’m currently working on JavaScript
