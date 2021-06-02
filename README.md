@@ -19,4 +19,4 @@ Here are some ideas to get you started:
   👽 Aliens Counter 👽<br>
   <img src="https://profile-counter.glitch.me/Magesvarane/count.svg" />
 </div>
-- ⚡ Mantra used: Eat -> Code -> Sleep -> Repeat <=>
+- ⚡ Mantra used: Eat -> Code -> Sleep -> Repeat <=> ➡️ 🔁
