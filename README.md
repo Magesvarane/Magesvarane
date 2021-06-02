@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center"> 
+  Visitors 👽<br>
+  <img src="https://profile-counter.glitch.me/Magesvarane/count.svg" />
+</div>
+
 ![Visitor Count](https://profile-counter.glitch.me/Magesvarane/count.svg)
