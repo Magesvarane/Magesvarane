@@ -1,5 +1,6 @@
-### Hey there 👋, I'm Magesvarane
-> You can term me as MaG or Mages. 
+<div align="center">
+  ### Hey there 👋, I'm Magesvarane
+</div>
 
 
 - 🔭 I’m currently working on JavaScript
