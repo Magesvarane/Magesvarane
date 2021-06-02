@@ -17,7 +17,7 @@ Facts
 
 <div align="center"> 
   👽 Aliens Counter 👽<br>
-  <img src="https://profile-counter.glitch.me/Magesvarane/count.svg" />
+  <img src="https://profile-counter.glitch.me/Magesvarane/count.svg" width="600" height="500"/>
 </div>
 
 
