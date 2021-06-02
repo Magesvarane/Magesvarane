@@ -5,19 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on JavaScript ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on JavaScript
+- 🌱 I’m currently learning React Native, Mobile Apps
+- 👯 I’m looking to collaborate on Web Developements
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about **JavaScript, ReactJS, NodeJS, Material Designs, Databases or TypeScript **
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/magesvarane-s-41081ab7) | [Mail](smagesvarane@gmail.com)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Mantra used: Eat -> Code -> Sleep -> Repeat <=>
 -->
 
 <div align="center"> 
   👽 Aliens Counter 👽<br>
   <img src="https://profile-counter.glitch.me/Magesvarane/count.svg" />
 </div>
-
-- 🔭 I’m currently working on JavaScript <img width="100" height="100" src="https://fr.wikipedia.org/wiki/JavaScript#/media/Fichier:Unofficial_JavaScript_logo_2.svg" />
+- ⚡ Mantra used: Eat -> Code -> Sleep -> Repeat <=>
