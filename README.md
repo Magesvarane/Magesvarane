@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center"> 
-  Visitors 👽<br>
+  Visitors 👽<br><br>
   <img src="https://profile-counter.glitch.me/Magesvarane/count.svg" />
 </div>
-
-![Visitor Count](https://profile-counter.glitch.me/Magesvarane/count.svg)
